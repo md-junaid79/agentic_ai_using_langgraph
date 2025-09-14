@@ -1,0 +1,7 @@
+langchain==0.3.25
+langgraph==0.4.8
+langsmith==0.3.45
+python-dotenv
+langchain-groq
+langchain_tavily
+setuptools
